@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MaiNgo95
-- 👀 I’m interested in coding
+- 👀 My dream is to become software engineerign/developer.
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me ...
+
 
 <!---
 MaiNgo95/MaiNgo95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
