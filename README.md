@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaiNgo95
 - 👀 My dream is to become software engineerign/developer.
-- 🌱 I’m currently learning coding
+- 
 
 
 <!---
