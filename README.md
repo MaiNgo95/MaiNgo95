@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaiNgo95
-- 👀 My dream is to become software engineerign/developer.
+- 👀 My dream is to become software engineer/developer.
 - 
 
 
