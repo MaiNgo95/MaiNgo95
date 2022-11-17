@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @MaiNgo95
-- 👀 My dream is to become software developer, Data Analyst.
+- 👋 Hi, I’m Mai Ngo
+- 👀 My dream is to become Software Developer, Data Analyst.
 
 - 
 
 
 <!---
-MaiNgo95/MaiNgo95 is a ✨ special ✨ girl.
+I am a ✨ special ✨ coding girl.
 --->
