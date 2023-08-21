@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mai Ngo
-- 👀 My dream is to become Software Developer, Data Analyst.
+- 👀 My dream is to become Software Engineer.
 
 - 
 
