@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mai Ngo
-- 👀 My dream is to become Software Engineer.
+-  My dream is to become Software Engineer.
 
-- 
 
 
 <!---
